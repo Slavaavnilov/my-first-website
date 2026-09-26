@@ -1,0 +1,98 @@
+
+
+    /* *{
+        outline: 2px solid red;
+    } */
+    .maine{
+        margin: 100px auto;
+        width: 650px;
+    }
+    body{
+        background-color: #0b132b;
+        color: white;
+    }
+    
+   .logo{
+        border: 10px solid #00b4d8;
+        height: 70px;
+        width: 70px;
+        border-radius: 25px;
+        background-color: black;
+        margin: 0 auto;
+    }
+    .logo2{
+        /* background-color: black; */
+        /* height: 48px; */
+        /* border: 2px solid red; */
+    }
+    .logo3{
+        background-color: lightblue;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin: 18px auto;
+        height: 30px;
+        width: 30px;
+    }
+    .head-banner{
+        border: 3px solid #3a506b;
+        /* border-left: 10px solid white; */
+        background-color: #1c2541;
+        border-radius: 25px;
+        padding:40px;
+        text-align: center;
+
+    }
+    .color{
+        color: #72efdd;
+        margin: 23px 0;
+    }
+    .gray{
+        color: lightgray;
+        margin: 23px 0;
+    }
+    .button{
+        border: 3px solid #72efdd;
+        color: black;
+        height: 50px;
+        width: 300px;
+        background-color: #00b4d8;
+        border-radius: 8px;
+        font-size: 18px;
+    }
+    .es{
+        text-align: center;
+    }
+
+    .service1, .service2, .service3{
+        background-color: #1c2541;
+        border: 3px solid #3a506b;
+        margin: 20px;
+        border-radius: 10px;
+        padding:10px;
+        border-left: 10px solid #00b4d8;
+    
+    }
+    .plans{
+        border: 3px dashed #00b4d8;
+        border-radius: 8px;
+        text-align: center;
+        margin: 20px;
+
+    }
+    .size{
+        font-size: 36px;
+    }
+    .color2{
+        color: #00b4d8;
+        margin: 20px 0 0 0;
+    }
+    .footer{
+        text-align: center;
+        color: lightgray;
+        margin: 20px 0 0 0;
+    }
+
+
+
+
+
